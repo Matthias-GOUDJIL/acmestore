@@ -4,7 +4,11 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        "gulp": "~3.9",
-        "laravel-elixir": "~5.0.0"
+        "debug": "^3.1.0",
+        "gulp": "^4.0.0",
+        "laravel-elixir": "^6.0.0-18",
+        "minimatch": "^3.0.4",
+        "shell-quote": "^1.6.1",
+        "lodash": "^4.17.10"
     }
 }
